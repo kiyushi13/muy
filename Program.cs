@@ -10,7 +10,7 @@ namespace мяууу
     {
         static void Main(string[] args)
         {
-
+             Console.WriteLine("Алирзаева Зарема, 3ИСП-31ВБ");
         }
     }
 }
